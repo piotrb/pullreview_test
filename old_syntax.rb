@@ -24,6 +24,10 @@ class OldSyntax
     puts "bla bla"
     puts "bla bla"
 
+    x = proc do
+      puts "in a block"
+    end
+
     if true
       if false
         if true
