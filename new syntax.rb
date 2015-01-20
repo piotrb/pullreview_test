@@ -1,4 +1,5 @@
 class NewSyntax
+
   def complex(foo:)
     puts "bla bla"
     puts "bla bla"
@@ -43,4 +44,5 @@ class NewSyntax
       end
     end
   end
+
 end

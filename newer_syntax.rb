@@ -28,6 +28,8 @@ class NewerSyntax
       puts "in a block"
     }
 
+    x.call()
+
     if true
       if false
         if true

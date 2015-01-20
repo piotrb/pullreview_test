@@ -28,6 +28,8 @@ class OldSyntax
       puts "in a block"
     end
 
+    x[]
+
     if true
       if false
         if true
